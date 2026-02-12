@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import logo from "./logo.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -23,6 +23,9 @@ import threejs from "./tech/threejs.svg";
 // import nextjs from "./tech/nextjs.svg";
 // import expressjs from "./tech/expressjs.png";
 // import postgresql from "./tech/postgresql.png";
+
+import live from "./live.png";
+
 
 
 import vitto from "./company/vitto.png";
@@ -60,4 +63,5 @@ export {
   toothly,
   eventsnap,
   guestify,
+  live
 };

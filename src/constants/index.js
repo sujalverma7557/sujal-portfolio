@@ -194,6 +194,7 @@ const projects = [
     ],
     image: eventsnap,
     source_code_link: "https://github.com/sujalverma7557/EventSnap.git",
+    live_link: "https://eventsnap-y80e.onrender.com/",
   },
   {
     name: "Guestify",
@@ -219,6 +220,7 @@ const projects = [
     ],
     image: guestify,
     source_code_link: "https://github.com/sujalverma7557/Guestify.git",
+    live_link: "https://guestify-1jso.vercel.app/",
   },
 ];
 
