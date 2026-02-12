@@ -3,7 +3,7 @@
 A modern, interactive developer portfolio showcasing my projects, experience, and technical skills. Built with a focus on clean design, smooth animations, and real-world project highlights.
 
 ## 🔗 Live Demo
-(Will be added after deployment)
+https://portfolio-sujal-pink.vercel.app/
 
 ## 🛠️ Tech Stack
 - **Frontend:** React, Vite, Tailwind CSS
