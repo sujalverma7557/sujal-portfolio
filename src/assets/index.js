@@ -33,6 +33,7 @@ import vitto from "./company/vitto.png";
 import toothly from "./toothly.png";
 import eventsnap from "./eventsnap.png";
 import guestify from "./guestify.png";
+import brainbolt from "./brainbolt.png"
 
 export {
   logo,
@@ -63,5 +64,6 @@ export {
   toothly,
   eventsnap,
   guestify,
+  brainbolt,
   live
 };

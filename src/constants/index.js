@@ -23,6 +23,7 @@ import {
   toothly,
   eventsnap,
   guestify,
+  brainbolt,
 } from "../assets";
 
 export const navLinks = [
@@ -221,6 +222,32 @@ const projects = [
     image: guestify,
     source_code_link: "https://github.com/sujalverma7557/Guestify.git",
     live_link: "https://guestify-1jso.vercel.app/",
+  },
+  {
+    name: "BrainBolt",
+    description:
+    "An adaptive infinite quiz platform that dynamically adjusts question difficulty based on user performance and streak patterns. The system prevents question repetition within a session, implements difficulty-based scoring with streak multipliers, and includes live leaderboards along with detailed per-user performance metrics.",
+    tags: [
+      {
+        name: "next.js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "typescript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "postgresql",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "redis",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: brainbolt,
+    source_code_link: "https://github.com/sujalverma7557/BrainBolt.git",
+    live_link: "https://brainbolt.onrender.com/",
   },
 ];
 
